@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InterfaceUtilisateurNative</string>
+    <string name="settings">Settings</string>
+    <string name="informations">Informations</string>
+</resources>
