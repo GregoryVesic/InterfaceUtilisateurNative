@@ -50,7 +50,8 @@ Présentation du projet InterfaceUtilisateurNative
 * La gallery correspond bien aux attentes du tp2 il  y a bien 2 colonnes, et autant de lignes qu'il y a d'images. De plus il y a bien le petit icone android à droite du nom de l'application avec le menu avec les (...) qui affiche ensuite 'informations'.
 
 ##### Layout GridView
-[![Github](https://github.com/Jbp83/TD2/blob/master/images/gridview.png)]
+[![Github](https://github.com/Jbp83/TD2/blob/master/images/gridview.PNG)]
+
 
 * La gallery correspond bien aux attentes du tp2, ils ont respectés le format des photos (png), et ont bien mis celle ci dans le dossier drawable du projet.
 
